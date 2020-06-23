@@ -1,0 +1,14 @@
+{
+    "name": "haxe-app",
+    "version": "0.0.1",
+    "license": "MIT",
+    "description": "An Electron application buit with Haxe",
+    "repository": "https://github.com/essenbee/haxe-app",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "electron": "^9.0.5"
+    }
+}

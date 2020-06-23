@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"app.js",
+"sourceRoot":"file:///",
+"sources":["D:/dev/haxe-app/App.hx","D:/HaxeToolkit/haxe/std/haxe/iterators/ArrayIterator.hx"],
+"names":[],
+"mappings":";;;WAaI,WAEI;AAAA,iBAAgB,WAAW;AAAA,EACvB,WAA2B,mBAAmB,MAAI;AAD3B,EACvB,+BAAU,gCAAV;AADuB,EAEvB,WAAyB,AAAC,UAAO;AAFV,EAEvB,+BAAU,8BAAV;AAFuB,EAGvB,WAA6B,AAAC,cAAW,iBAAkB;AAHpC,EAGvB,+BAAU,kCAAV;AAHuB,EAKvB,2BAAqB,OAAO,CAAE,uBAAyB,OAAO,cAAc;AAAA,GACpF,cAAc;AADsE,GAExE,+BAAU,8BAAgB,UAAM;AAFwC;AALrD;AAA3B;mCCmBC,gBAPT;AAAA,CAEmB,AAAlB,eAAkB;AAFnB,CASE,aAAa;AATf;;UAeS,WAEP;AAAA,SAAO,eAAU;AAAjB;QAMO,WAEP;AAAA,SAAO,WAAM;AAAb;;;;;;"
+}
